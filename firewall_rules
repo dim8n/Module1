@@ -1,3 +1,4 @@
+
 block
   target: %%REJECT%%
   icmp-block-inversion: no
